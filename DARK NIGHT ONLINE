@@ -1,0 +1,558 @@
+gg.alert('🇲🇨YOUTUBE DRAK NIGHT🇲🇨', 'SEMOGA BAHAGIA😂')
+function bps()
+  gg.clearResults()
+  gg.editAll(1, gg.TYPE_QWORD | gg.TYPE_XOR | gg.TYPE_FLOAT | gg.TYPE_WORD | gg.TYPE_BYTE | gg.TYPE_DOUBLE | gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.searchNumber("1", gg.TYPE_QWORD | gg.TYPE_XOR | gg.TYPE_FLOAT | gg.TYPE_WORD | gg.TYPE_BYTE | gg.TYPE_DOUBLE | gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.toast("D4RKN1GHT V.2 moga tidak ke band🤣🤣")
+  gg.clearResults()
+end
+function Main()
+  START = gg.choice({
+    "👁️👁️‍🗨️ MENU Mata elang dan Warna 😀",
+    "new Beta ByPass virtual | lobby😂sebelum buka dan semudah  😁",
+    " ⚠️menu landing ⚠️",
+    "🤤 INfO 😌",
+    "😵 Exit"
+  }, nil, "🇲🇨YOUTUBE DARKNIGHT 🇲🇨","script D4RKN1GHT V1.2")
+  if START == 1 then
+    WHBC()
+  end
+  if START == 2 then
+    BV1()
+  end
+  if START == 3 then
+    LAND()
+  end
+  if START == 4 then
+    INFO()
+  end
+  if START == 5 then
+    Exit()
+  end
+  XGCK = -1
+end
+function WHBC()
+  GM = gg.multiChoice({
+    "😰Walkhack SD 425++ rentan memori CA",
+    "😬Walkhack SD 615 - -",
+    "☹️Walkhack SD 625++",
+    "🙁Walkhack SD 835++",
+    "🙄Walkhack SD 845++",
+    "😪Color Red 425",
+    "😒Color Yellow 425",
+    "😔Color Green 425",
+    "😛Color Red",
+    "😔Color Blue",
+    "😎Color Yellow",
+    "😅Color Green",
+    "😘Color HDR Red",
+    "🔙"
+  }, nil, "D4RKN1GHT V1")
+  if GM == nil then
+  else
+    if GM[1] == true then
+      WH425()
+    end
+    if GM[2] == true then
+      WH615()
+    end
+    if GM[3] == true then
+      WH625()
+    end
+    if GM[4] == true then
+      WH835()
+    end
+    if GM[5] == true then
+      WH845()
+    end
+    if GM[6] == true then
+      CR425()
+    end
+    if GM[7] == true then
+      CY425()
+    end
+    if GM[8] == true then
+      CG425()
+    end
+    if GM[9] == true then
+      CR()
+    end
+    if GM[10] == true then
+      CB()
+    end
+    if GM[11] == true then
+      CY()
+    end
+    if GM[12] == true then
+      CG()
+    end
+    if GM[13] == true then
+      HDRR()
+    end
+    if GM[14] == true then
+      Main()
+    end
+    XGCK = -1
+  end
+end
+function WH845()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("5.3680222e21;1.3312335e-43;1.3912563e-19;2.0;1.6623075e-19::17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(7)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.searchNumber("5.201992e21;4.4028356e-29;2.25000452995;2.0;1.6623054e-19::17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.searchNumber("2.0;-1.0;0.0;1.0;-127.0;0.24022650719;0.69314718246;0.00999999978::29", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(11)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.toast("D4RKN1GHT V1.2")
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("69,897;102,667;540,673;147,457::", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("147457", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(5201314)
+  gg.editAll("98765", gg.TYPE_DWORD)
+  gg.toast("D4RKN1GHT V1.2")
+  gg.clearResults()
+end
+function WH835()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("5.1097599e21;2.0;1.6623071e-19::17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(30)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("-0.01000213623;2;-1;0;0.04000854492", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(30)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("2.0;-1.0;0.0;1.0;-127.0::17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(30)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("2.718519e-43F;3.7615819e-37F;2.0F;0.00999999978F::200", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(30)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.searchNumber("5.8013756e-42F;-5.5695588e-40F;2.0F::100", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(30)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("D4RKN1GHT V1.2")
+end
+function WH615()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_C_HEAP)
+  gg.searchNumber("3.2229865e-43F;2.0F;-1.0F;-1.0F;2.0F:145", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(360)
+  gg.editAll("150", gg.TYPE_FLOAT)
+  gg.toast("D4RKN1GHT V1.2")
+  gg.clearResults()
+end
+function WH425()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_C_ALLOC)
+  gg.searchNumber("3.3631163e-44;2.0;3.5032462e-44;-1.0;3.643376e-44;3.7835059e-44;-1.0;3.9236357e-44;4.0637655e-44;1.0;-127.0:129", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.searchNumber("3.1809475e-43;3.1949605e-43;2.0;3.2089735e-43:53", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("D4RKN1GHT V1.2")
+end
+function CR425()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("790,580;856,128;856,130:17", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("856,128", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1)
+  gg.editAll("856138", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("856,128;856,130;393,222:25", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("856,128", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1)
+  gg.editAll("856138", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.searchNumber("196,610;1,280;196,608:25", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("196,608", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(2)
+  gg.editAll("9999", gg.TYPE_DWORD, false, 536870912, 0, -1)
+  gg.toast("D4RKN1GHT V1.2")
+end
+function CY425()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("790,580;856,128;856,130:17", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("856,128", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1)
+  gg.editAll("856133", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("856,128;856,130;393,222:25", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("856,128", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1)
+  gg.editAll("856133", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.searchNumber("196,610;1,280;196,608:25", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("196,608", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(2)
+  gg.editAll("9999", gg.TYPE_DWORD, false, 536870912, 0, -1)
+  gg.toast("D4RKN1GHT v1.2")
+end
+function CG425()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("790,580;856,128;856,130:17", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("856,128", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1)
+  gg.editAll("856122", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("856,128;856,130;393,222:25", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("856,128", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1)
+  gg.editAll("856122", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.searchNumber("196,610;1,280;196,608:25", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("196,608", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(2)
+  gg.editAll("9999", gg.TYPE_DWORD)
+  gg.toast("D4RKN1GHT V1.2")
+end
+function WH625()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("135,215D;4,140D;3.7615819e-37;2::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("130", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("194D;3.7615819e-37;2;-1;1;-127::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("130", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("D4RKN1GHT V1.2")
+end
+function CR()
+  gg.clearResults()
+  gg.searchNumber("8,196D;8,192D;8,200D::", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("7", gg.TYPE_DWORD)
+  gg.toast("D4RKN1GHT V1")
+  gg.clearResults()
+end
+function CB()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("1.3912525e-19F;8200;96", gg.TYPE_DWORD, false)
+  gg.searchNumber("8200", gg.TYPE_DWORD, false)
+  gg.getResults(10)
+  gg.editAll("8202", gg.TYPE_DWORD)
+  gg.toast("D4RKN1GHT V1")
+  gg.clearResults()
+end
+function CY()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("256;8200;13::150", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("6", gg.TYPE_DWORD)
+  gg.toast("D4RKN1GHT V1.2")
+  gg.clearResults()
+end
+function CG()
+  gg.clearResults()
+  gg.searchNumber("69,778D;1,669,332,992D;11D", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("11", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("32777", gg.TYPE_DWORD)
+  gg.toast("D4RKN1GHT V1.2")
+  gg.clearResults()
+end
+function HDRR()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("8204;256;176;7;8200::", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(20)
+  gg.editAll("7", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.toast("D4RKN1GHT V1.2")
+end
+function BV1()
+  gg.clearResults()
+-- normal range
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("257;2131;0F~99999F;0::50",gg.TYPE_DWORD,false,gg.SIGN_FUZZY_EQUAL,0,-1)
+gg.searchNumber("0F~99999F",gg.POINTER_WRITABLE,false,gg.SIGN_FUZZY_EQUAL,0,-1)
+var = gg.getResults(10)
+gg.editAll("0",gg.POINTER_WRITABLE)
+gg.clearResults()
+  gg.toast("Beta gan wkwkkwk")
+end
+function LAND()
+  DARK = gg.multiChoice({
+    "BLACKSKY",
+    "SEMBARANG LOMPAT | Kadang bisa banned",
+    "NORECOIL100%",
+    "NO RECOIL70%",
+    "NOGRASSS",
+    "ANTENA ITEM EPIK",
+    "SIT DOWN SCOPE",
+    "Aim bot100m",
+    "Lock head ",
+    "magic bullet",
+    "🔙"
+  }, nil, "D4RKN1GHT V2")
+  if DARK == nil then
+  else
+    if DARK[1] == true then
+      BS1()
+    end
+    if DARK[2] == true then
+      SL1()
+    end
+    if DARK[3] == true then
+      NR1()
+    end
+    if DARK[4] == true then
+      NR2()
+    end
+    if DARK[5] == true then
+      NG1()
+    end
+    if DARK[6] == true then
+      ANT1()
+    end
+    if DARK[7] == true then
+      SDS1()
+    end
+    if DARK[8] == true then
+      AIM()
+    end
+    if DARK[9] == true then
+      LH1()
+    end
+    if DARK[10] == true then
+      MB()
+    end
+    if DARK[11] == true then
+      Main()
+    end
+    XGCK = -1
+  end
+end
+function BS1()
+ gg.clearResults()
+ gg.toast("to be continued wkkwk")
+ gg.clearResults()
+end
+function SL1()
+ gg.clearResults()
+ gg.setRanges(gg.REGION_ANONYMOUS)
+ gg.searchNumber("10.0;45.0;40.0", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResultCount()
+ gg.searchNumber("10", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResults(150)
+ gg.editAll("99999999", gg.TYPE_FLOAT)
+ gg.toast("Ati Ati ae")
+ gg.clearResults()
+end
+function NR1()
+gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.setVisible(false)
+  gg.searchNumber("20000;5D;0.2~0.21999999881;1065353216D;1065353216D;0;53;30;1::33", gg.TYPE_FLOAT)
+  gg.setVisible(false)
+  gg.searchNumber("0.2~0.21999999881;1", gg.TYPE_FLOAT)
+  gg.getResults(200)
+  gg.editAll("0", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("176293393;8F;9.5F;15F::", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("176293393", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("0", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.toast("D4RKN1GHT V2")
+end
+function NR2()
+-- normal range
+ gg.setRanges(gg.REGION_ANONYMOUS)
+ gg.searchNumber("176293393;8F;9.5F;15F::",gg.TYPE_DWORD,false,gg.SIGN_FUZZY_EQUAL,0,-1)
+gg.searchNumber("176293393",gg.TYPE_DWORD,false,gg.SIGN_FUZZY_EQUAL,0,-1)
+var = gg.getResults(100)
+ gg.editAll("176293392",gg.TYPE_DWORD)
+ gg.clearResults()
+  gg.toast("D4RK N1GHT V2")
+end
+function NG1()
+ gg.clearResults()
+ gg.toast("sabar :V")
+ gg.clearResults()
+end
+function ANT1()
+ gg.clearResults()
+ gg.setRanges(gg.REGION_BAD)
+ gg.searchNumber("7.1689529418945",   gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0,  -1)
+ gg.getResults(3)
+ gg.editAll("88996", gg.TYPE_FLOAT)
+ gg.clearResults()
+ gg.setRanges(gg.REGION_BAD)
+ gg.searchNumber("7.4993133544922",  gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.searchNumber("7.4993133544922", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResults(1)
+ gg.editAll("88996", gg.TYPE_FLOAT)
+ gg.clearResults()
+ gg.setRanges(gg.REGION_BAD)
+ gg.searchNumber("18.46202087402",  gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResults(3)
+ gg.editAll("88996", gg.TYPE_FLOAT)
+ gg.clearResults()
+ gg.setRanges(gg.REGION_BAD)
+ gg.searchNumber("3.4779739379883;2.8345839977264;3.1967880725861;3.8841888904572;3.1528658866882::208", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.searchNumber("3.4779739379883",  gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResults(3)
+ gg.editAll("88996", gg.TYPE_FLOAT)
+ gg.clearResults()
+ gg.setRanges(gg.REGION_BAD)
+ gg.searchNumber("6.95975875854",  gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResults(999)
+ gg.editAll("88996", gg.TYPE_FLOAT)
+ gg.clearResults()
+ gg.setRanges(gg.REGION_BAD)
+ gg.searchNumber("88996", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResults(100)
+ gg.editAll("0.88996", gg.TYPE_FLOAT)
+ gg.clearResults()
+ gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("0.88996", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResults(30)
+ gg.editAll("88996", gg.TYPE_FLOAT)
+ gg.toast("DARK NIGHT V2")
+ gg.clearResults()
+end
+function SDS1()
+ gg.clearResults()
+ gg.setRanges(gg.REGION_ANONYMOUS)  gg.searchNumber("-0.67914116382599;-0.20633073151112;-0.68966287374496;9.49029350281;0.0064272880554199::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("9.49029350281", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(500)
+  gg.editAll("333.0517578125", gg.TYPE_FLOAT)
+ gg.toast("DARK NIGHT")
+gg.clearResults()
+end
+function AIM()
+gg.clearResults()
+  gg.setRanges(gg.REGION_CODE_APP)
+  gg.searchNumber("360;-360;180;0.0001::25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("0.0001", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(2)
+  gg.editAll("300", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("D4RKN1GHT V2")
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("73;33", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("33", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("9999999999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("D4RK N1GHT V2")
+  gg.clearResults()
+  gg.setRanges(gg.REGION_CODE_APP)
+  gg.searchNumber("360;-360;180;0.0001::25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("0.0001", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(2)
+  gg.editAll("300", gg.TYPE_FLOAT)
+gg.clearResults()
+end
+function LH1()
+gg.clearResults()
+gg.clearResults()
+  gg.setRanges(gg.REGION_CODE_APP)
+  gg.searchNumber("360.0;0.0001;1,478,828,288.0::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResultCount()
+  gg.searchNumber("0.0001", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(2)
+  gg.editAll("1998", gg.TYPE_FLOAT)
+gg.toast("DARK NIGHT V2")
+gg.clearResults()
+end
+function MB()
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("150;85;45;-129;-85", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("45", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("20", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("33,016,732D;33,017,208D;0.0001;0.00999999978;33,016,120D::18", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.0001", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("88", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("60,817,408D;-9.3992095e20;-7.1611644e24;0.0001;35,243,264D::30", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.0001", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("99999999", gg.TYPE_FLOAT)
+  gg.toast("D4RKN1GHT V2")
+gg.clearResults()
+ end
+function INFO()
+gg.alert("KONTAK WA: 08156864437")
+end
+function sbps()
+  gg.setVisible(false)
+  HH = gg.alert(" 😋bypass security jangan telat🤣  ", "Yes", "No")
+  if HH == 1 then
+    bps()
+  end
+  if HH == 2 then
+  end
+end
+sbps()
+function Exit()
+  print("REMEMBER TO ALLAH 😉 Script by D4RKN1GHT V1.2")
+  os.exit()
+end
+cs = "BASIC DARI Xshincan :V edit By DARK NIGHT"
+while true do
+  if gg.isVisible(true) then
+    XGCK = 1
+    gg.setVisible(false)
+  end
+  gg.clearResults()
+  if XGCK == 1 then
+    Main()
+  end
+end
